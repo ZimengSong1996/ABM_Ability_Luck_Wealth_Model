@@ -1,7 +1,7 @@
 # ABM_Ability_Luck_Wealth_Model
 Exploring Wealth Accumulation with a Ability-Luck Perspective: Using ABM Method
 
-This model is an agent-based model (ABM) developed using NetLogo, and requires version 6.4.0 or higher of NetLogo to operate seamlessly.
+This is my individual programe from UCL CASA (Centre for Advanced Spatial Analysis). This model is an agent-based model (ABM) developed using NetLogo, and requires version 6.4.0 or higher of NetLogo to operate seamlessly.
 
 The relative roles of luck and ability in wealth accumulation are topics of frequent contemplation. Commonly, it is assumed that individuals with greater abilities have a distinct advantage in acquiring wealth. However, our study, through the development of an ABM, reveals that ability might not be a necessary prerequisite for wealth accumulation, even not important. On a macroscopic level, the distribution of wealth within society appears to exhibit a significant degree of randomness, suggesting that luck may play a more crucial role in determining an individual's total wealth.
 
